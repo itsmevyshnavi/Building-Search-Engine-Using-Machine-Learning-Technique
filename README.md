@@ -33,15 +33,15 @@ Unlike traditional search engines that rely on simple keyword matching, this sea
 ---
 
 **🛠️ Technologies Used**
-**Programming:** Python 3.7+
+- **Programming:** Python 3.7+
 
-**Framework:** Django
+* **Framework:** Django
 
-**Machine Learning:** Scikit-learn, XGBoost, SVM
++ **Machine Learning:** Scikit-learn, XGBoost, SVM
 
-**Database:** MySQL
+- **Database:** MySQL
 
-**Frontend:** HTML, CSS
+- **Frontend:** HTML, CSS
 
 ---
 
