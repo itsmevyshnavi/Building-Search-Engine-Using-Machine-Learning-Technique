@@ -24,11 +24,11 @@ Unlike traditional search engines that rely on simple keyword matching, this sea
 
 **🚀 Features**
 
-✅ AI-powered Page Ranking – Smarter than traditional keyword-based engines.
-✅ Web Crawler – Collects and indexes data from websites.
-✅ Easy-to-Use Interface – Search like you normally would!
-✅ Admin Panel – Manage users and train ML models.
-✅ Fast & Scalable – Uses TF-IDF for intelligent feature extraction.
+✅ AI-powered Page Ranking – Smarter than traditional keyword-based engines.  
+✅ Web Crawler – Collects and indexes data from websites.  
+✅ Easy-to-Use Interface – Search like you normally would!  
+✅ Admin Panel – Manage users and train ML models.  
+✅ Fast & Scalable – Uses TF-IDF for intelligent feature extraction.  
 
 ---
 
@@ -47,16 +47,16 @@ Unlike traditional search engines that rely on simple keyword matching, this sea
 
 🎯 **How It Works:**  
 
-1️⃣ Admin logs in and activates user accounts.
-2️⃣ Manager uploads datasets to train the ML models.
-3️⃣ User logs in and searches for information.
-4️⃣ Search Query Processing:
+1️⃣ Admin logs in and activates user accounts.  
+2️⃣ Manager uploads datasets to train the ML models.  
+3️⃣ User logs in and searches for information.  
+4️⃣ Search Query Processing:  
 
-- The query is converted into TF-IDF vectors.
+- The query is converted into TF-IDF vectors.  
 
-- SVM & XGBoost models determine the most relevant web pages.
+- SVM & XGBoost models determine the most relevant web pages.  
 
-- Ranked results are displayed with links.
+- Ranked results are displayed with links.  
 
   ---
   
@@ -64,9 +64,9 @@ Unlike traditional search engines that rely on simple keyword matching, this sea
 
 Feel free to reach out if you have any questions:
 
-**Creator:** Vyshnavi Ellendula
-**Email:** vysh785@gmail.com
-**LinkedIn:** www.linkedin.com/in/vyshnavi-ellendula-a02637294
+**Creator:** Vyshnavi Ellendula  
+**Email:** vysh785@gmail.com  
+**LinkedIn:** www.linkedin.com/in/vyshnavi-ellendula-a02637294  
 
 🚀 Happy Searching! 🔍
 
