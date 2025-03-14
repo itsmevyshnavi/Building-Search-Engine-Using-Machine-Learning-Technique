@@ -2,7 +2,7 @@
 
 ---
 
-**🚀 Building a Smart Search Engine with Machine Learning**
+**AI-Powered Search Engine – Smarter & Faster Results 🔍🤖**
 
 **🌟 Introduction**
 
@@ -10,7 +10,7 @@ Ever felt frustrated when search engines don't show the most relevant results? T
 
 ---
 
-**🔥 Why This Search Engine?**
+**Why This Search Engine?**
 
 Unlike traditional search engines that rely on simple keyword matching, this search engine understands the context of queries and delivers highly relevant results. It:
 
@@ -22,7 +22,7 @@ Unlike traditional search engines that rely on simple keyword matching, this sea
 
 ---
 
-**🚀 Features**
+**⚡ Features**
 
 ✅ AI-powered Page Ranking – Smarter than traditional keyword-based engines.  
 ✅ Web Crawler – Collects and indexes data from websites.  
@@ -68,7 +68,7 @@ Feel free to reach out if you have any questions:
 **Email:** vysh785@gmail.com  
 **LinkedIn:** www.linkedin.com/in/vyshnavi-ellendula-a02637294  
 
-🚀 Happy Searching! 🔍
+ Happy Searching! 🔍
 
  ---
  
